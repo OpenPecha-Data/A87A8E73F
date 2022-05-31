@@ -1,0 +1,19 @@
+segment_sources:
+  I31499C93:
+    type: origin_type
+    relation: translation
+    language: en
+  IF0B3B114:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8b42fb1fca4347c7baa0bff7d848edd6:
+    I31499C93: 32ed20d914fa451fa053d463fad39085
+    IF0B3B114: 6cecf921cab443fba1d60ef236e00b1e
+  190596755d9c45beab363e4a166e6d16:
+    I31499C93: 296c326d46a34e21b1f142d88b10b2c9
+    IF0B3B114: a7f57be73c97494aa90bfb07ceba7294
+  bb0a3975a62045d19067f5b6ddc98f01:
+    I31499C93: 757aaa1d669d4ce994acddeecc4b5169
+    IF0B3B114: 54004ea9d44c4ef680a91e06b138fc8d
